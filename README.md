@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/salym7)
 
 <!--
 **Salym7/Salym7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
